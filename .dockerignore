@@ -1,0 +1,18 @@
+# Maven / build output
+target/
+# Git
+.git
+.gitignore
+# IDE files
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+# OS files
+.DS_Store
+Thumbs.db
+# Logs
+*.log
+# Node (if any future additions)
+node_modules/
